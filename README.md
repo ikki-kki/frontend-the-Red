@@ -60,3 +60,4 @@ HTML 과 CSS 모듈은 매 해 새로운 버전이 나오는 Living Standard다.
 - github trending을 깊지 안더라도 자주 읽자 https://github.com/trending
 - 깃헙은 모든 오픈소스의장이다. 모든 깃헙 트랜딩이 유명해지지는 않지만 모든 유명한 트랜드는 여기서 며칠식 상위에 머물곤 했다.
 - 채용공고에 특정 기술이 포함되어있는지 살피자
+# frontend-red
